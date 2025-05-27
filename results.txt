@@ -1,0 +1,14 @@
+Beta: 162.018 +- 0.447
+Reduced Chi-squared: 0.059
+U_CE: 5.00 V
+I_C w optymalnym punkcie pracy: 0.333 mA
+I_B w optymalnym punkcie pracy: 2.057$\mu$A
+R_B w optymalnym punkcie pracy: 4544615.18 Ohm
+
+k: 61.628 +- 0.547
+Reduced Chi-squared: 0.700
+
+omega_g1: 3000.000 +- 577.350 rad/s
+omega_g2: 900000.000 +- 57735.027 rad/s
+pasmo przenoszenia: 897000.000 +- 57737.914 rad/s
+
